@@ -1,2 +1,1 @@
-mobo
-====
+Placas-mãe
