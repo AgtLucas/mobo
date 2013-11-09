@@ -761,6 +761,8 @@ article.smaller {
 .source {
   font-size: 14px;
   color: $gray-2;
+  background: black;
+  padding: 5px;
   position: absolute;
   bottom: $slide-top-bottom-padding + 30px;
   left: $slide-left-right-padding;
@@ -837,8 +839,8 @@ article.smaller {
 /* ===== SLIDE CONTENT ===== */
 .logoslide {
   img {
-    width: 383px;
-    height: 92px;
+    display: block;
+    width: 100%;
   }
 }
 
@@ -1080,4 +1082,14 @@ aside.gdbar {
   pre, code {
     font-family: monospace !important;
   }
+}
+
+.st-title {
+  position: absolute;
+  width: 100%;
+  top: 50px;
+  left: 0;
+  display: block;
+  background: rgba(0,0,0,0.8);
+  padding: 50px;
 }
