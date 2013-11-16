@@ -264,6 +264,22 @@ As placas-mãe geralmente contam com 2 a 8 portas Sata. Algumas possuem controla
 
 ![image](http://im.tech2.in.com/gallery/2012/aug/asus_maximus_v_extreme_sata_071706282741_640x360.jpg)
 
+###Conector 20/24 pinos ATX
+É um conector de 24 pinos, responsável por fornecer energia para a placa-mãe.
+
+![image](http://www.thinkcomputers.org/reviews/asus_z87_sabertooth/14.jpg)
+
+###Conector 4/8 pinos CPU
+Similiar ao conector ATX, seu objetivo é fornecer energia para o CPU.
+![image](http://images.hardwarecanucks.com/image/mac/reviews/asus/rampageIIextreme/installation10th.jpg)
+
+###Demais conectores
+Além dos principais conectores de energia, as placas-mãe possuem diversos conectores auxiliares para exaustores externos e internos.
+
+Geralmente estes conectores são posicionados estrategicamente nas laterais e bordas da placa, de forma com que possam facilitar a instalação de exaustores sem atrapalhar a organização interna do gabinete.
+
+![image](http://images.bit-tech.net/news_images/2013/05/asus-reveals-z87-motherboard-range/fan-1280x1024.jpg)
+
 ---
 
 Além dos componentes citados acima, as placas-mãe possuem muitos outros, tais como entradas USB, saídas de áudio, BIOS, entre outros componentes pequenos.
@@ -399,5 +415,13 @@ Abaixo, temos 3 placas de diferente formatos, da esquerda para a direita: Asus V
 
 ![image](http://imageshack.com/scaled/large/18/zb4j.jpg)
 
+---
 
+#Conclusão
+
+Escolher uma placa-mãe para um PC, não é uma tarefa fácil, já que a cada ano temos mais e mais modelos com diversas novas tecnologias. Ter várias opções disponíveis no mercado é uma coisa boa também, já que isso incentiva a procura, o que acaba melhorando os preços.
+
+Como ela é o componente que agrupa todos os outros, podemos dizer que ela é sim o componente mais importante de um PC, mesmo ela dependendo de outros componentes para funcionar.
+
+De um componente sem "vida" para um dos componentes mais importante de um PC, essa é a tragetória das placas-mãe.
 
