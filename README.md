@@ -79,6 +79,44 @@ Durante a década de 80 e 90, com o aumento do número da função dos periféri
 
 * 2009 - Novo formato, Mobile ITX by VIA
 > O menor formato de placa-mãe atualmente, apenas 60mm x 60mm
+
+---
+
+### Formatos (Form factors)
+
+|Formato| Dimensões|
+|-------|:--------:|
+|AT | 350mm x 305mm |
+|Baby-AT | 330mm x 216mm |
+|BTX | 325mm x 266mm |
+|ATX | 305mm x 244mm |
+|EATX | 305mm x 330mm |
+|LPX | 330mm x 229mm |
+|mBTX | 264mm x 267mm |
+|NLX | 254mm x 228mm |
+|Ultra ATX | 244mm x 367mm |
+|mATX | 244mm x 244mm |
+|DTX | 244mm x 203mm |
+|FlexATX| 229mm x 19mm |
+|Mini-DTX | 203mm x 170mm |
+|EBX | 203mm x 146mm |
+|Mini-ITX | 170mm x 170mm |
+|EPIC | 165mm x 165mm |
+|Mini ATX | 150mm x 150mm |
+|ESM | 149mm x 71mm |
+|Nano-ITX | 120mm x 120mm |
+|COM Express | 125mm x 95mm |
+|ESMexpress | 125mm x 95mm |
+|ETX/XTX | 114mm x 95mm |
+|Pico-ITX | 100mm x 72mm |
+|PC/104 | 95mm x 90mm |
+|ESMini | 95mm x 55mm |
+|Qseven | 70mm x 70mm |
+|mobile-ITX | 60mm x 60mm |
+|CoreExpress | 58mm x 65mm |
+
+
+
  
 
 
