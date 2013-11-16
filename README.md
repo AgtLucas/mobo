@@ -116,7 +116,94 @@ Durante a década de 80 e 90, com o aumento do número da função dos periféri
 |CoreExpress | 58mm x 65mm |
 
 
+#Fabricantes principais
 
- 
+### Fabricantes atuais
+
+####Asus
+Asus é atualmente a maior fabricante de placas-mãe. Fundada entre 1989 e 1990 em Taiwan por ex-empregados da Acer.
+
+Conta com várias linhas de placas-mãe, para diversos segmentos. Se destaca entre o público entusiasta, com a série ROG (Republic of Gamers) e TUF (The Ultimate Force). Ambas pussuem componentes de altíssima qualidade, garantindo alto poder de overclock e estabilidade.
+
+Além de placas-mãe, a empresa fabrica monitores, placas de vídeo, notebooks, tablets, modems, entre outros.
+
+####ASRock
+Empresa com sede em Taiwan, fundada em 2002 por Ted Hsu, um dos fundadores da Asus. Atualmente pertence ao grupo Pegatron Corporation.
+
+É a 3ª maior fabricante de placas-mãe.
+
+####Biostar
+Empresa com sede em Taiwan, fundada em 1986.
+
+A marca é um pouco desconhecida do mercado "comum", sendo mais conhecida pelo público entusiasta.
+
+Atualmente é a 5ª maior fabricante de placas-mãe.
+
+####ECS
+A 6ª maior fabricante de placas-mãe.
+
+Fundada em Taiwan em 1987, até pouco tempo a empresa tinha seu principal foco em placas de baixo custo para mercados emergentes. Atualmente tem investido no segmento entusiasta.
+
+####EVGA
+Empresa mais conhecida pelo ramo de placas de vídeo, a EVGA foi fundade em 1999 e sua sede fica no estado da Califórnia - EUA.
+
+Focada em soluções entusiastas, atualmente tem uma participação discreta no mercado de placas-mãe.
+
+####Foxconn
+A maior fabricante de componentes eletrônicos do mundo. Além de fabricar suas próprias placas-mãe, é responsável por fabricar diversos componentes de outras empresas, como slots de memória, slots PCI-e, entre outros.
+
+Em 2009 a reputação da empresa foi manchada, devido a problemas nos sockets Intel 1156 das placas-mãe com chipset Intel P55. Apesar dos problemas terem sido corrigidos, diversos fabricantes de placas-mãe decidiram usar sockets de outra marca (Lotes e Tyco AMP) em suas placas-mãe.
+
+####Gigabyte
+A segunda maior fabricante de placas-mãe. Fundada em 1986, com sede em Taiwan.
+
+A empresa foca no mercado intermediário, oferecendo diversas placas-mãe com excelente custo-benefício.
+
+####Intel
+A Intel começou a fabricação de placas-mãe em 1997. Do contrário do mercado de CPUs, onde a empresa domina a arquitetura X86, no ramo de placas-mãe a empresa não tem feito um trabalho muito bom.
+
+Há rumores de que em breve a Intel encerre a produção de placas-mãe.
+
+####MSI
+A 4ª maior fabricantes de placas-mãe. Fundada em 1986 em Taiwan.
+
+Ao lado da Asus, é a empresa que mais têm investido no mercado entusiasta, oferecendo excelente soluções para os consumidores.
+
+####Sapphire
+Empresa fundada em 2001 com sede em Hong Kong. Participação discreta no mercado de placas-mãe, focando atualmente no mercado de placas de vídeo.
+
+---
+
+###Fabricantes que faliram
+
+Abaixo, segue uma lista de fabricantes que fizeram sucesso no mercado de placas-mãe, porém, por razões diversas, faliram ou pararam sua produção.
+
+* Abit
+* Chaintech
+* BFG
+* DFI
+* EPoX
+* Soyo
+* Universal Abit
+
+---
+
+###Fabricantes não tão conhecidos
+
+Existem muitos outros fabricantes de placas-mãe, que por muitas pessoas são desconhecidos. O motivo disso é o fato de fabricaram placas-mãe para outros segmentos, como por exemplo segmentos industriais, notebooks, etc.
+
+* Acer
+* Jetway
+* AOpen
+* Lanner
+* Trenton
+* Tyan
+* VIA
+
+---
+
+
+
+
 
 
