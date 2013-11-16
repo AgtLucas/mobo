@@ -80,41 +80,6 @@ Durante a década de 80 e 90, com o aumento do número da função dos periféri
 * 2009 - Novo formato, Mobile ITX by VIA
 > O menor formato de placa-mãe atualmente, apenas 60mm x 60mm
 
----
-
-### Formatos (Form factors)
-
-|Formato| Dimensões|
-|-------|:--------:|
-|AT | 350mm x 305mm |
-|Baby-AT | 330mm x 216mm |
-|BTX | 325mm x 266mm |
-|ATX | 305mm x 244mm |
-|EATX | 305mm x 330mm |
-|LPX | 330mm x 229mm |
-|mBTX | 264mm x 267mm |
-|NLX | 254mm x 228mm |
-|Ultra ATX | 244mm x 367mm |
-|mATX | 244mm x 244mm |
-|DTX | 244mm x 203mm |
-|FlexATX| 229mm x 19mm |
-|Mini-DTX | 203mm x 170mm |
-|EBX | 203mm x 146mm |
-|Mini-ITX | 170mm x 170mm |
-|EPIC | 165mm x 165mm |
-|Mini ATX | 150mm x 150mm |
-|ESM | 149mm x 71mm |
-|Nano-ITX | 120mm x 120mm |
-|COM Express | 125mm x 95mm |
-|ESMexpress | 125mm x 95mm |
-|ETX/XTX | 114mm x 95mm |
-|Pico-ITX | 100mm x 72mm |
-|PC/104 | 95mm x 90mm |
-|ESMini | 95mm x 55mm |
-|Qseven | 70mm x 70mm |
-|mobile-ITX | 60mm x 60mm |
-|CoreExpress | 58mm x 65mm |
-
 
 #Fabricantes principais
 
@@ -372,3 +337,67 @@ O painel traseiro de uma placa-mãe, é onde encontramos a maior parte das entra
 Geralmente é composta por portas USB, PS/2, Fireware, e-Sata, saídas de áudio, portas de rede, HDMI, VGA entre outros.
 
 ![image](http://img593.imageshack.us/img593/4792/ax3l.jpg)
+
+#Modelos e tipos
+Existem diversos tipos de placas-mãe, sejam elas para PCs, Notebooks, etc.
+
+Abaixo listamos os formatos, dentre eles os principais são o ATX, mATX, Mini-ITX.
+
+### Formatos (Form factors)
+
+|Formato| Dimensões|
+|-------|:--------:|
+|AT | 350mm x 305mm |
+|Baby-AT | 330mm x 216mm |
+|BTX | 325mm x 266mm |
+|ATX | 305mm x 244mm |
+|EATX | 305mm x 330mm |
+|LPX | 330mm x 229mm |
+|mBTX | 264mm x 267mm |
+|NLX | 254mm x 228mm |
+|Ultra ATX | 244mm x 367mm |
+|mATX | 244mm x 244mm |
+|DTX | 244mm x 203mm |
+|FlexATX| 229mm x 19mm |
+|Mini-DTX | 203mm x 170mm |
+|EBX | 203mm x 146mm |
+|Mini-ITX | 170mm x 170mm |
+|EPIC | 165mm x 165mm |
+|Mini ATX | 150mm x 150mm |
+|ESM | 149mm x 71mm |
+|Nano-ITX | 120mm x 120mm |
+|COM Express | 125mm x 95mm |
+|ESMexpress | 125mm x 95mm |
+|ETX/XTX | 114mm x 95mm |
+|Pico-ITX | 100mm x 72mm |
+|PC/104 | 95mm x 90mm |
+|ESMini | 95mm x 55mm |
+|Qseven | 70mm x 70mm |
+|mobile-ITX | 60mm x 60mm |
+|CoreExpress | 58mm x 65mm |
+
+###Placas-mãe para servidores
+As placas-mãe para servidores são placas parecidas com as de computadores doméstico, apenas possuem mais conexões e slots de expansão, bem como algumas possuem mais de 1 socket para CPU.
+
+Abaixo temos uma EVGA Classfied SR-2.
+
+Reparem na quantidade de slots para memórias e PCI Express.
+
+![image](http://www.legitreviews.com/images/reviews/1437/EVGA_Classified_SR2_big.jpg)
+
+###Placas-mãe para notebooks
+Geralmente, são as placas menos expansíveis, por motivos óbvios, já que devido as dimensões de um notebook, muito dos seus componentes são onboards.
+
+Abaixo temos uma placa-mãe de um MacBook Pro:
+
+![image](http://images.anandtech.com/reviews/mac/MacBookPro2011/DSC_1636.jpg)
+
+###Placas-mãe para desktop
+São as placas mais conhecidas e mais comuns.
+
+Abaixo, temos 3 placas de diferente formatos, da esquerda para a direita: Asus VI Impact (Mini-ITX), Asus Maximus VI Gene (mATX) e Asus Maximus VI Formula (ATX)
+
+![image](http://imageshack.com/scaled/large/18/zb4j.jpg)
+
+
+
