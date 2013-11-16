@@ -287,3 +287,16 @@ O PCI Express 2.0 existe desde 2007 e oferece 500 MB/s por linha, ou seja, um PC
 O PCI Express 3.0 fora lançado em novembro de 2010, conta com 985 MB/s por linha, sendo assim, um PCI Express x16 consegue fornecer até 15.75 GB/s de largura de banda.
 
 Em novembro de 2011, o PCI-SIG (Peripheral Component Interconnect Special Interest Group) anunciou as especificações do PCI Express 4.0, que contará com 1969 MB/S por linha, totalizando 31.51 GB/s de largura de banda em um PCI Express x16.
+
+###Slots de memória
+Uma placa-mãe possui de 1 a 6 slots de memória ram, esse número pode aumentar se levarmos em consideração placas-mãe para servidores.
+
+![image](http://i1-news.softpedia-static.com/images/news2/Asus-Upcoming-Maximus-IV-Extreme-Gets-Picture-Preview-6.png)
+
+###Portas Sata
+Substituto direto do PATA (IDE), SATA (Serial Advanced Technology Attachment) atualmente está na versão 3.0.
+As placas-mãe geralmente contam com 2 a 8 portas Sata. Algumas possuem controladoras integradas ao processador, e outras direto ao Southbridge da placa-mãe.
+
+![image](http://im.tech2.in.com/gallery/2012/aug/asus_maximus_v_extreme_sata_071706282741_640x360.jpg)
+
+
