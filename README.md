@@ -6,7 +6,7 @@
 * [Fabricantes principais](#fabricantes-principais)
 * [Constituição básica](#constituição-basica)
     * Slots, chipset, gerador de clock, super I/O, controlador de teclado, ROM, bateria, soquetes de memória, etc
-* [Atualização da BIOS](atualizacao-da-bios)
+* [Atualização da BIOS](atualização-da-bios)
 * [Modelos e tipos](modelos-e-tipos)
 
 ---
@@ -303,6 +303,8 @@ As placas-mãe geralmente contam com 2 a 8 portas Sata. Algumas possuem controla
 
 Além dos componentes citados acima, as placas-mãe possuem muitos outros, tais como entradas USB, saídas de áudio, BIOS, entre outros componentes pequenos.
 
+###Componentes em geral
+
 Os menores componentes das placas-mãe são os resistores e os capacitores cerâmicos. Eles são extremamente pequenos, medindo cerca de 1 milímetro quadrado, e por isso são instalados de forma automatizada e com grande precisão.
 
 Reguradores de tensão são formados por um conjunto de MOSFETs, algumas capacitores, e um controlador. Placas antigas utilizavam um único regulador de tensão, conforme os processadores foram evoluindo, o consumo de energia dos mesmos aumentou, e com isso as placas passaram a utilizar reguladores divididos em fases, onde temos vários reguladores de tensão trabalhando em paralelo, formando um sistema capaz de fornecer um volume maior de energia.
@@ -326,4 +328,35 @@ Embora mais duráveis, os capacitores de estado sólido são mais caros que os c
 Com o passar do tempo, entretanto, eles foram gradualmente se popularizando, até se tornarem norma. Hoje em dia, já é raro encontrar placas-mãe novas que ainda utilizam capacitores eletrolíticos.
 
 ![image](http://www.vortez.net/articles_file/24203_asus_x79_deluxe_vrm.jpg)
+
+###BIOS
+A BIOS (Basic Input Output System), é um chip que contém todo o software básico necessário para inicializar a placa-mãe. O BiOS inclui também o setup, o software que permite configurar as diversas opções oferecidas pela placa.
+
+Por definição, BIOS é um software, mas por outro lado, ele fica gravado em um chip espetado na placa-mãe, o que ofusca uma definição concreta. Na maioria dos casos, o chip combina uma pequena quantidade de memória Flash (512 ou 1024 KB no caso dos chips PLCC), o CMOS (que é composto por 128 a 256 bytes de memória volátil) e o relógio de tempo real. Nas placas antigas era utilizado um chip DIP, enquanto nas atuais é utilizado um chip PLCC (Plastic Leader Chip Carrier), que é bem mais compacto.
+
+Mais recentemente, muitos fabricantes passaram a armazenar a BIOS em chips de memória Flash NOR de acesso serial, que também cumprem com a função, mas são menores e um pouco mais baratos que os chips PLCC. Outra tendência crescente é o uso de um segundo chip com uma cópia de backup da BIOS, que é usada em caso de problemas com a programação do chip principal (como no caso de um upgrade de BIOS mal-sucedido).
+
+![image](http://e.cdn-hardware.com.br/static/20110302/m1301f341.jpg)
+
+####Atualização da BIOS
+Como qualquer software, a BIOS também possui bugs. Atulizar a BIOS é preciso, pois muitas vezes uma atualização pode resolver vários problemas.
+
+O processo é simples, porém um pouco delicado, uma vez que se, por algum motivo o processo de atualização seja interrompido (queda de energia, por exemplo), o software da BIOS pode ser corrompido, e muitas vezes isso é um processo que não tem volta.
+
+Como anteriormente citado, os fabricantes têm investido em uma segunda BIOS, o que ajuda em muito caso uma tenha algum problema.
+
+Para atualizar a BIOS, você deve baixar a versão mais recente no site do fabricante, colocar o arquivo em uma mídia e bootar a máquina selecionando o arquivo récem baixado.
+
+Outra tendência, é a atualização da BIOS via sistema operacional, contudo, fale lembrar que este processo é bem mais suscetível a erros, já que estamos dependendo de um sistema operacional que muitas vezes não é estável (Windows por exemplo).
+
+####UEFI BIOS
+O UEFI surgiu por uma iniciativa da Intel, com o objetivo de oferecer um substituto mais moderno e flexível para a BIOS para uso em servidores e sistemas corporativos. Eventualmente a Intel entregou o desenvolvimento a um comitê, o UEFI forum, que inclui empresas como a AMD, Apple, Dell, IBM, Lenovo, Microsoft e até mesmo desenvolvedores de BIOS, como a AMI e a Phoenix.
+
+Para fins práticos, o UEFI tem a mesma função do BIOS: inicializar o hardware da máquina e inicializar o sistema operacional, transmitindo o controle para ele. A grande diferença fica por conta da forma como o software é estruturado e as funções adicionais que ele introduz.
+
+O UEFI é estruturado de forma similar a um sistema operacional, com suporte a módulos, que podem oferecer funções adicionais diversas, como sistemas instant-on para navegar na web ou exibir arquivos de mídia sem precisar carregar o sistema operacional, sistemas de gerenciamento remoto que possam funcionar de forma independente do SO (permitindo reparar ou reinstalar o sistema remotamente, mesmo que o sistema não esteja conseguindo concluir o boot), funções de backup e diagnóstico, plataformas de virtualização e assim por diante. O UEFI oferece suporte a rede, bem como suporte a ambiente gráfico, dispositivos de armazenamento USB e até mesmo à placa de som, o que permite que navegadores, players de mídia e outros tipos de softwares possam ser usados diretamente sobre ele.
+
+![image](http://www.thinkcomputers.org/reviews/asus_p9x79pro/24.jpg)
+
+
 
