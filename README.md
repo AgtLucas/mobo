@@ -4,7 +4,7 @@
 
 * [Fundamentos e definições](#fundamentos-e-definições)
 * [Fabricantes principais](#fabricantes-principais)
-* [Constituição básica](#constituicao-basica)
+* [Constituição básica](#constituição-basica)
     * Slots, chipset, gerador de clock, super I/O, controlador de teclado, ROM, bateria, soquetes de memória, etc
 * [Atualização da BIOS](atualizacao-da-bios)
 * [Modelos e tipos](modelos-e-tipos)
@@ -202,8 +202,50 @@ Existem muitos outros fabricantes de placas-mãe, que por muitas pessoas são de
 
 ---
 
+#Constituição básica
 
+Uma placa-mãe é composta por diversos outros componentes interligados entre si. Talvez por isso, ela é a parte do computador que pode apresentar mais falhas.
 
+Basicamente uma placa-mãe é formada por um PCB, slots de memórias, socket do CPU, slots PCI-e, portas SATA, saídas de áudio, entre outros.
+
+Abaixo, vamos listar os principais componentes de uma placa-mãe moderna, e dar uma pequena explicação sobre eles.
+
+###PCB
+O PCB (Printed Circuit Board) ou placa de circuito impresso, é a placa onde são soldados os demais componentes. O PCB é composto por fenolite, fibra de vidro, filme de poliéster, filmes específicos à base de diversos polímeros, entre outros materiais. Possui a superfície cobertura por uma fina película de cobre, prata, ligas à base de ouro, níquel entre outros, nas quais são impresso os circuitos condutores onde serão fixados os componentes eletrônicos.
+
+Um PCB de uma placa-mãe atual, é composto por cerca de 4 a 10 camadas, sendo que cada camada possui parte das trilhas necessárias, e posteriormente unidas através de pontos de solda estrategicamente posicionados.
+
+Como o PCB é um dos componentes de mais baixa tecnologia, é bastante comum que sua produção seja terceirizada em países onde a mão de obra é barata (China), por isso é comum placas-mãe com PCBs "Made in China".
+
+![PCB Asus Gryphon Z87](http://archive.benchmarkreviews.com/images/reviews/motherboards/gryphon-z87/ASUS-GRYPHON-Motherboard-PCB-Back-Intel-Z87-mATX.jpg)
+
+###Socket CPU
+O socket do CPU é onde o CPU é acomodado na placa-mãe. Antigamente, todos os processadores tinham o mesmo set de pinos que poderiam conectar o CPU na placa-mãe, chamados de PGA (Pin Grid Array). Estes pinos eram encaixados num socket chamado **socket 7**. Isso significava que qualquer processador poderia ser usado em qualquer placa-mãe.
+
+Atualmente, os sockets são divididos por plataforma (AMD e Intel).
+
+AMD ainda usa sockets PGA, enquanto que a Intel migrou para os novos LGA (Land Grid Array) , também conhecidos como socket T. A principal diferença e vantagem do LGA, é que os pinos fazem parte do socket, e não do CPU, fazendo com que o problema de pinos entortados ficassem cada vez mais raros.
+
+Os principais sockets atuais são:
+
+####AMD
+
+* AM3
+* G34 (Servidores)
+* G32 (Servidores)
+* AM3+
+* FM1
+* FM2
+
+####Intel
+
+* LGA 1155
+* LGA 1150
+* LGA 1366
+* LGA 2011
+* rPGA 988A (Notebooks)
+* LGA 1248 (Servidores)
+* LGA 1567 (Servidores)
 
 
 
