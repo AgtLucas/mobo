@@ -247,5 +247,43 @@ Os principais sockets atuais são:
 * LGA 1248 (Servidores)
 * LGA 1567 (Servidores)
 
+![Socket Intel LGA 1150](http://i1-news.softpedia-static.com/images/news2/Intel-LGA-1150-Socket-Will-Be-Compatible-with-2014-Broadwell-CPUs-Report-2.jpg)
 
+###Chipsets
+Os chipsets são um conjunto de circuitos integrados que são responsáveis por fazer a comunicação entre o CPU e todos os outros componentes.
 
+Até pouco tempo, placas-mãe possuiam dois principais chipsets, o Northbridge e Southbridge. 
+
+O Northbridge era o responsável por fazer a comunicação e controle entre CPU, memória RAM, slots PCI-e. Atualmente, em placas-mãe modernas, o Northbridge não mais existe, já que esse trabalho fica a cargo do próprio CPU. O processo de fabricação de CPUs foi melhorando com o passar dos anos, atualmente temos CPUs usando o processo de fabricação de 22nm, sendo assim possível, incorporar no DIE do CPU um chipset substituto do Northbridge.
+
+Processadores AMD possuem o controlador de memória imbutido no CPU, assim como os Intel, a diferença é que não possuem controladores PCI-e, fazendo com que placas-mãe para processadores AMD ainda terem o Northbridge.e
+
+O Southbridge é o responsável por fazer a conexão de "baixa velocidade", tais como USB, Sata, BIOS e super I/O.
+
+Os principais fabricantes de chipsets atualmente são, AMD, Intel, VIA e SiS. A Nvidia parou sua fabricação de chipsets em 2009
+
+###Barramentos PCI Express, PCI
+
+####PCI
+Ao longo da história da plataforma PC, tivemos uma extensa lista de barramentos, começando com o ISA de 8 bits, usado nos primeiros PCs, passando pelo ISA de 16 bits, MCA, EISA, e VLB, até finalmente chegar no barramento PCI, que sobrevive até os dias de hoje.
+
+O PCI é um barramento de 32 bits, que opera a 33 MHz, resultando em uma banda total de 133 MB/s, compartilhada entre todos os periféricos ligados a ele. O PCI trouxe recursos inovadores (para a época), como o suporte a plug-and-play e bus mastering e, comparado com os barramentos antigos, ele é relativamente rápido. O grande problema é que ele surgiu no começo da era Pentium, quando os processadores ainda trabalhavam a 100 MHz. Hoje em dia temos processadores quad-core se aproximando da casa dos 4 GHz e ainda assim ele continua sendo usado, com poucas melhorias.
+
+####PCI Express
+PCI Express foi criado em 2004, por uma parceria entre Intel, IBM, HP e Dell, o objetivo principal era substituir o PCI, AGP entre outros, trazendo maior velocidade, taxa de transfêrencia e largura de banda. Seu uso mais notável é com placas de vídeo. Atualmente encontra-se na versão 3.0 (985 MB/s (8 GT/s) ou seja, um PCIe x16 (16 linhas) possui 15.75 GB/s (128 GT/s) ).
+
+O PCI Express é também um barramento serial e não um barramento paralelo, como o PCI. Antigamente, os circuitos eletrônicos eram muito lentos, por isso a solução para criar barramentos mais rápidos era adicionar mais trilhas e transmitir vários bits de cada vez. Exemplos de barramentos paralelos são as portas paralelas, usadas pelas impressoras antigas, as portas IDE e também o próprio barramento PCI.
+
+Existem 4 tipos de slots PCI Express, que vão de x1 a x16. Estes números indicam quantas linhas de dados são utilizadas pelo slot e, consquentemente a largura de banda disponível.
+
+![image](http://e.cdn-hardware.com.br/static/20110304/41c5a236.jpg)
+
+Cada linha PCI Express utiliza 4 pinos de dados (dois para envio de dados, e dois para recepção de dados), que operam em modo full-duplex, podendo transmitir e receber dados simultaneamente.
+
+Atualmente, existem duas versões de PCI Express sendo usadas, o PCI Express 2.0 e o PCI Express 3.0, sendo que este último vem se tornando cada vez mais comum, fazendo com que os PCI Express 2.0 desapareçam em breve.
+
+O PCI Express 2.0 existe desde 2007 e oferece 500 MB/s por linha, ou seja, um PCI Express x16 consegue fornecer até 8 GB/s de largura de banda.
+
+O PCI Express 3.0 fora lançado em novembro de 2010, conta com 985 MB/s por linha, sendo assim, um PCI Express x16 consegue fornecer até 15.75 GB/s de largura de banda.
+
+Em novembro de 2011, o PCI-SIG (Peripheral Component Interconnect Special Interest Group) anunciou as especificações do PCI Express 4.0, que contará com 1969 MB/S por linha, totalizando 31.51 GB/s de largura de banda em um PCI Express x16.
