@@ -2,7 +2,7 @@
 
 ## Grupo 06 - Placas-mãe
 
-* [Fundamentos e definições](#fundamentos-e-definições)
+* [Fundamentos e definições](#fundamentos-e-definicoes)
 * [Fabricantes principais](#fabricantes-principais)
 * [Constituição básica](#constituicao-basica)
     * Slots, chipset, gerador de clock, super I/O, controlador de teclado, ROM, bateria, soquetes de memória, etc
