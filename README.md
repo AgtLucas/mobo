@@ -145,7 +145,7 @@ A 6ª maior fabricante de placas-mãe.
 Fundada em Taiwan em 1987, até pouco tempo a empresa tinha seu principal foco em placas de baixo custo para mercados emergentes. Atualmente tem investido no segmento entusiasta.
 
 ####EVGA
-Empresa mais conhecida pelo ramo de placas de vídeo, a EVGA foi fundade em 1999 e sua sede fica no estado da Califórnia - EUA.
+Empresa mais conhecida pelo ramo de placas de vídeo, a EVGA foi fundada em 1999 e sua sede fica no estado da Califórnia - EUA.
 
 Focada em soluções entusiastas, atualmente tem uma participação discreta no mercado de placas-mãe.
 
@@ -358,5 +358,17 @@ O UEFI é estruturado de forma similar a um sistema operacional, com suporte a m
 
 ![image](http://www.thinkcomputers.org/reviews/asus_p9x79pro/24.jpg)
 
+###CMOS
 
+O CMOS serve para armazenar as configurações do setup. Como elas representam um pequeno volume de informações, ele é bem pequeno em capacidade.
 
+Assim como a memória RAM principal, ele é volátil, de forma que as configurações são perdidas quando a alimentação elétrica é cortada. Devido a isso, toda placa-mãe inclui uma bateria, que mantém as configurações quando o micro é desligado.
+
+A mesma bateria alimenta também o relógio de tempo real (real time clock), que, apesar do nome pomposo, é um relógio digital comum, que é o responsável por manter atualizada a hora do sistema, mesmo quando o micro é desligado.
+
+###Painel traseiro
+O painel traseiro de uma placa-mãe, é onde encontramos a maior parte das entradas e saídas da placa para periféricos e outros dispositivos removíveis.
+
+Geralmente é composta por portas USB, PS/2, Fireware, e-Sata, saídas de áudio, portas de rede, HDMI, VGA entre outros.
+
+![image](http://img593.imageshack.us/img593/4792/ax3l.jpg)
