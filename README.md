@@ -417,11 +417,4 @@ Abaixo, temos 3 placas de diferente formatos, da esquerda para a direita: Asus V
 
 ---
 
-#Conclusão
-
-Escolher uma placa-mãe para um PC, não é uma tarefa fácil, já que a cada ano temos mais e mais modelos com diversas novas tecnologias. Ter várias opções disponíveis no mercado é uma coisa boa também, já que isso incentiva a procura, o que acaba melhorando os preços.
-
-Como ela é o componente que agrupa todos os outros, podemos dizer que ela é sim o componente mais importante de um PC, mesmo ela dependendo de outros componentes para funcionar.
-
-De um componente sem "vida" para um dos componentes mais importante de um PC, essa é a tragetória das placas-mãe.
 
