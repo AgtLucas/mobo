@@ -299,4 +299,31 @@ As placas-mãe geralmente contam com 2 a 8 portas Sata. Algumas possuem controla
 
 ![image](http://im.tech2.in.com/gallery/2012/aug/asus_maximus_v_extreme_sata_071706282741_640x360.jpg)
 
+---
+
+Além dos componentes citados acima, as placas-mãe possuem muitos outros, tais como entradas USB, saídas de áudio, BIOS, entre outros componentes pequenos.
+
+Os menores componentes das placas-mãe são os resistores e os capacitores cerâmicos. Eles são extremamente pequenos, medindo cerca de 1 milímetro quadrado, e por isso são instalados de forma automatizada e com grande precisão.
+
+Reguradores de tensão são formados por um conjunto de MOSFETs, algumas capacitores, e um controlador. Placas antigas utilizavam um único regulador de tensão, conforme os processadores foram evoluindo, o consumo de energia dos mesmos aumentou, e com isso as placas passaram a utilizar reguladores divididos em fases, onde temos vários reguladores de tensão trabalhando em paralelo, formando um sistema capaz de fornecer um volume maior de energia.
+
+Tecnicamente, um regulador de tensão com mais fases é superior, já que o trabalho é dividido entre mais componentes. Isso permite que o regulador desperdice menos energia na forma de calor, ao mesmo tempo em que oferece um fluxo de energia mais estável para o processador.
+
+Placas atuais utilizam reguladores de tensão com 4, 6, 8 ou mesmo até mais de 12 fases. É fácil descobrir o número de fases do regulador da placa-mãe, pois cada fase é composta por um conjunto idêntico de componentes, que são instalados em série próximo ao encaixe do processador.
+
+![image](http://images.hardwarecanucks.com/image/eldonko/P67FTW/Board/vrm.jpg)
+
+Os capacitores permitem armazenar pequenas quantidades de energia, absorvendo variações na corrente e entregando um fluxo estável para os componentes ligados a ele. Você pode imaginar que eles atuam como pequenas represas, armazenando o excesso de água na época das chuvas e entregando a água armazenada durante as secas.
+
+Existem diversos tipos de capacitores. Tradicionalmente, os mais usados em placas-mãe e outros componentes são os capacitores eletrolíticos. Eles possuem uma boa capacidade e são muito baratos de se produzir, daí a sua enorme popularidade. O problema é que eles possuem uma vida útil relativamente curta, estimada em de 1 a 5 anos de uso contínuo, variando de acordo com a qualidade de produção e as condições de uso.
+
+Com o passar do tempo, os capacitores eletrolíticos perdem progressivamente a sua capacitância, deixando os componentes desprotegidos. O capacitor passa então a atuar como um condutor qualquer, perdendo sua função. Sem a proteção proporcionada por ele, os circuitos passam a receber diretamente as variações, o que, além de abreviar sua vida útil, torna o sistema como um todo mais e mais instável.
+
+A partir de 2006 os capacitores eletrolíticos começaram a dar lugar aos capacitores de estado sólido (chamados de Conductive Polymer Aluminum), onde a folha de alumínio banhada no líquido eletrolítico é substituída por uma folha de material plástico (um polímero) contendo um eletrolítico sólido de alumínio. Por não conterem nenhum tipo de líquido corrosivo, estes capacitores não são suscetíveis aos problemas de durabilidade que caracterizam os capacitores eletrolíticos.
+
+Embora mais duráveis, os capacitores de estado sólido são mais caros que os capacitores eletrolíticos. Como o uso deles aumenta em até US$ 10 o custo de produção da placa (o que acaba causando um aumento considerável no preço final), eles foram inicialmente usados apenas em placas "premium", desenvolvidas para o público entusiasta.
+
+Com o passar do tempo, entretanto, eles foram gradualmente se popularizando, até se tornarem norma. Hoje em dia, já é raro encontrar placas-mãe novas que ainda utilizam capacitores eletrolíticos.
+
+![image](http://www.vortez.net/articles_file/24203_asus_x79_deluxe_vrm.jpg)
 
