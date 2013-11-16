@@ -271,6 +271,7 @@ As placas-mãe geralmente contam com 2 a 8 portas Sata. Algumas possuem controla
 
 ###Conector 4/8 pinos CPU
 Similiar ao conector ATX, seu objetivo é fornecer energia para o CPU.
+
 ![image](http://images.hardwarecanucks.com/image/mac/reviews/asus/rampageIIextreme/installation10th.jpg)
 
 ###Demais conectores
