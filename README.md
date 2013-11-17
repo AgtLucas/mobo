@@ -164,6 +164,7 @@ Existem muitos outros fabricantes de placas-mãe, que por muitas pessoas são de
 * Trenton
 * Tyan
 * VIA
+* Zotac
 
 ---
 
