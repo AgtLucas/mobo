@@ -223,8 +223,8 @@ a {
     }
   // Cover
   &.cover {
-    background:#000;
-    color: #f3f3f3;
+    background:#ffffff;
+    color: #000;
     @mixin cover {
       img, svg, video,
       object, canvas, iframe {

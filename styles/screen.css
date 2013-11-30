@@ -229,8 +229,8 @@ a {
   .slide.cover:after, .slide.shout:after {
     content: ''; }
 .slide.cover {
-  background: #000;
-  color: #f3f3f3; }
+  background: #ffffff;
+  color: #000; }
   .slide.cover img, .slide.cover svg, .slide.cover video,
   .slide.cover object, .slide.cover canvas, .slide.cover iframe {
     position: absolute;
