@@ -129,6 +129,8 @@ a {
 .slide p {
   margin: 0 0 20px;
   line-height: 1.5; }
+.slide li {
+  line-height: 1.5; }
 .slide a {
   border-bottom: 0.1em solid;
   color: #52a2df; }
