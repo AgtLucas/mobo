@@ -92,38 +92,6 @@ a {
     .caption a:hover {
       border-bottom: 0.1em solid; }
 
-.badge {
-  position: absolute;
-  top: 0;
-  right: 0;
-  display: none;
-  overflow: hidden;
-  visibility: hidden;
-  width: 11em;
-  height: 11em;
-  line-height: 2.5;
-  font-size: 15px; }
-
-.badge a {
-  position: absolute;
-  bottom: 50%;
-  right: -50%;
-  left: -50%;
-  visibility: visible;
-  background: #52a2df;
-  color: #FFF;
-  text-align: center;
-  -webkit-transform-origin: 50% 100%;
-  -moz-transform-origin: 50% 100%;
-  -ms-transform-origin: 50% 100%;
-  -o-transform-origin: 50% 100%;
-  transform-origin: 50% 100%;
-  -webkit-transform: rotate(45deg) translateY(-1em);
-  -moz-transform: rotate(45deg) translateY(-1em);
-  -ms-transform: rotate(45deg) translateY(-1em);
-  -o-transform: rotate(45deg) translateY(-1em);
-  transform: rotate(45deg) translateY(-1em); }
-
 .slide {
   position: relative;
   width: 1024px;
@@ -159,7 +127,8 @@ a {
   margin: 0 0 58px;
   font: 48px/1 'Open Sans Light', sans-serif; }
 .slide p {
-  margin: 0 0 48px; }
+  margin: 0 0 20px;
+  line-height: 1.5; }
 .slide a {
   border-bottom: 0.1em solid;
   color: #52a2df; }
