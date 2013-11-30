@@ -204,14 +204,14 @@ a {
     margin: 0 0 0 2em; }
 .slide ul > li:before {
   content: '\2022\00A0\00A0\2009';
-  color: #f3f3f3; }
+  color: #a21737; }
 .slide ul > li:lang(ru):before {
   content: '\2014\00A0\2009';
-  color: #f3f3f3; }
+  color: #a21737; }
 .slide ol > li:before {
   counter-increment: list;
   content: counter(list) ".\00A0\2009";
-  color: #f3f3f3; }
+  color: #a21737; }
 .slide pre {
   margin: 0 0 45px;
   padding: 3px 0 0;
@@ -531,6 +531,8 @@ a {
   bottom: 90px; }
   .team li {
     line-height: 1.5; }
+  .team ul > li:before {
+    color: #f3f3f3; }
 
 .shout-mobo {
   background: #f3f3f3 !important; }

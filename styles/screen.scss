@@ -168,16 +168,16 @@ a {
     }
   ul > li:before {
     content:'\2022\00A0\00A0\2009';
-    color: $bg-mobo;
+    color: $c-color;
     }
   ul > li:lang(ru):before {
     content:'\2014\00A0\2009';
-    color: $bg-mobo;
+    color: $c-color;
     }
   ol > li:before {
     counter-increment:list;
     content:counter(list)'.\00A0\2009';
-    color: $bg-mobo;
+    color: $c-color;
     }
   // Code
   pre {
@@ -521,6 +521,9 @@ a {
   bottom: 90px;
   li {
     line-height: 1.5;
+  }
+  ul > li:before {
+    color: $bg-mobo;
   }
 }
 
